@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0729cd36.css",
+    "main.js": "/static/js/main.f1f351b1.js",
+    "static/media/Ronquillo_CV.png": "/static/media/Ronquillo_CV.2020db641df1e3aefa8d.png",
+    "static/media/softlivepestana.png": "/static/media/softlivepestana.e590bab553b757e14774.png",
+    "static/media/softlivegeneral.png": "/static/media/softlivegeneral.db7ca86e44b400273c82.png",
+    "static/media/Dylan_CV.jpeg": "/static/media/Dylan_CV.5c4ad93c333a35f412ed.jpeg",
+    "static/media/perfilVera.jpeg": "/static/media/perfilVera.f8018417032c1b267f9e.jpeg",
+    "static/media/Zamora_CV.jpeg": "/static/media/Zamora_CV.c305ee0e9aabf5055147.jpeg",
+    "static/media/bg_contactenos.png": "/static/media/bg_contactenos.f5c01b247b6cbd7afde5.png",
+    "static/media/Skype.png": "/static/media/Skype.6bf27976275a37bc1a2a.png",
+    "static/media/Vmware.png": "/static/media/Vmware.b56436e118de626344a4.png",
+    "static/media/Vera_CV.jpeg": "/static/media/Vera_CV.5aaa83de559122415faa.jpeg",
+    "static/media/Office.png": "/static/media/Office.53f3a1d666aabac8cfdf.png",
+    "static/media/Mcafee.png": "/static/media/Mcafee.c03bc4faa15683dda974.png",
+    "static/media/UGlogo.png": "/static/media/UGlogo.2c65bcbf1c9e6c3402e0.png",
+    "static/media/Salesforce.png": "/static/media/Salesforce.fe28c392998ccf5cbcf3.png",
+    "static/media/Unity.png": "/static/media/Unity.e07adafafb915b5977f4.png",
+    "static/media/bg_ubicacion.jpg": "/static/media/bg_ubicacion.6895f76cd7f2b72a5792.jpg",
+    "static/media/AutoCAD.png": "/static/media/AutoCAD.8ea6edadd0631da0a043.png",
+    "static/media/Windows10.png": "/static/media/Windows10.fbf4e2b2fa92de80a073.png",
+    "static/media/Quickbooks.png": "/static/media/Quickbooks.42f3f822f5b10a365e6c.png",
+    "static/media/Zendesk.png": "/static/media/Zendesk.fe6b974304208bfc88e3.png",
+    "static/media/zamoraPerfil.jpeg": "/static/media/zamoraPerfil.540c40609c07e3741ac1.jpeg",
+    "static/media/Dylan.jpeg": "/static/media/Dylan.396f14d3c8ba6fd4e271.jpeg",
+    "static/media/Avast.png": "/static/media/Avast.9faa89d4635538c1b7a0.png",
+    "static/media/perfilRonquillo.JPG": "/static/media/perfilRonquillo.7958abd149cbdbdebc26.JPG",
+    "static/media/Adobecreativecloud.png": "/static/media/Adobecreativecloud.dbc57bf4ad924512b8b4.png",
+    "static/media/logoMatFis.jpg": "/static/media/logoMatFis.45260eacdeb0076ddcd2.jpg",
+    "index.html": "/index.html",
+    "main.0729cd36.css.map": "/static/css/main.0729cd36.css.map",
+    "main.f1f351b1.js.map": "/static/js/main.f1f351b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0729cd36.css",
+    "static/js/main.f1f351b1.js"
+  ]
+}
